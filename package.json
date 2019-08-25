@@ -1,6 +1,6 @@
 {
   "name": "flip-curried",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flip like in Haskell.",
   "keywords": [
     "flip",

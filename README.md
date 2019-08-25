@@ -1,6 +1,6 @@
 # flip-curried
 
-Flip the arguments of a curried function (like Haskell's [`flip`](haskell-flip)).
+Flip the arguments of a curried function (like Haskell's [`flip`][haskell-flip]).
 
 [![NPM Version][shield-npm]][npm-url]
 [![Downloads Stats][shield-downloads]][npm-url]
